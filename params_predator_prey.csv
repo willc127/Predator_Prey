@@ -1,0 +1,3 @@
+Prey	Predator	alpha	beta	delta	gamma	source
+Baboon	Cheetah	1.1	0.4	0.1	0.4	https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations
+Hare	Lynx	0.4	0.018	0.8	0.023	https://jmahaffy.sdsu.edu/courses/f09/math636/lectures/lotka/qualde2.html
